@@ -1,5 +1,5 @@
-# Assistance with cleaning the dataset
+# Tried changing datatype
 
-I intend to answer the question 'What Census data is most associated with high gun per capita ?' and the column that will be useful in helping me answering this question is the 'fact' column however that column has 65 rows after the cleaning process. Please how can I drill down to the row that will be most import in answering my question as I can't go through each one by by one.
+So I tried changing the data types from 'objects' to 'int' as instructed but I still got an error - ValueError: invalid literal for int() with base 10: '4,863,300'
 
 Please have a look.
