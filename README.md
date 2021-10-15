@@ -1,5 +1,5 @@
-# Tried changing datatype
+# Loop error
 
-So I tried changing the data types from 'objects' to 'int' as instructed but I still got an error - ValueError: invalid literal for int() with base 10: '4,863,300'
+The code you provided still didn't work.
 
 Please have a look.
